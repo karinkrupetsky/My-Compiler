@@ -1,0 +1,20 @@
+Students ids:
+1. 206081697
+2. 208498444
+3. 305191041
+
+Students names:
+1. Nissim Museri
+2. Karin Krupetsky
+3. Gal Reshef S
+
+Operating system:
+Windows10 - 64Bit
+
+Development enviroment:
+Visual Studio 19
+
+Notes:
+Gila approved late subbmition of this part of the project(7days).
+
+Example:	

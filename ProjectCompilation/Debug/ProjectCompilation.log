@@ -1,0 +1,4 @@
+﻿  SymbolTable.c
+C:\Users\nissi\Documents\Limudim\קומפילציה\מטלה 3\ProjectCompilation\ProjectCompilation\SymbolTable.c(227,82): warning C4047: '!=': 'dimSizeItem *' differs in levels of indirection from 'int'
+C:\Users\nissi\Documents\Limudim\קומפילציה\מטלה 3\ProjectCompilation\ProjectCompilation\SymbolTable.c(76): warning C4715: 'find': not all control paths return a value
+  ProjectCompilation.vcxproj -> C:\Users\nissi\Documents\Limudim\קומפילציה\מטלה 3\ProjectCompilation\Debug\ProjectCompilation.exe
